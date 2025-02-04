@@ -1,67 +1,103 @@
-# Cursor Trail Reset
+# Cursor Almost done, 
 
+## todo list:
+- [ ] spilt screen
+- [ ] human verfication
+- [ ] reset and account gen mode
 
-## Prerequisites
+## Project Structure
 
-- Python 3.7+
-- Chrome browser installed
-- PowerShell 5.1+ (for GUI)
-- pip (Python package installer)
+```
+cursor-trail-reset/
+├── src/                    # Source code
+│   ├── bot/               # Bot implementation
+│   │   ├── __init__.py
+│   │   ├── cursor_bot.py  # Main bot logic
+│   │   └── mail_api.py    # Mail.tm API handling
+│   └── gui/               # GUI implementation
+│       └── cursor_gui.ps1 # PowerShell GUI script
+├── data/                  # Data files
+│   ├── accounts/         # Generated accounts
+│   └── logs/            # Log files
+├── config/               # Configuration files
+│   └── settings.json    # Bot settings
+├── scripts/             # Utility scripts
+│   └── cleanup.ps1      # Cleanup script
+├── .gitignore
+├── requirements.txt
+└── README.md
+```
+
+## Requirements
+
+- Python 3.8 or higher
+- Google Chrome browser
+- PowerShell 7.0 or higher
+- Windows 10/11
 
 ## Installation
 
-1. Clone this repository:
+1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/yourusername/cursor-trail-reset.git
+cd cursor-trail-reset
 ```
 
-2. Install the required dependencies:
+2. Create and activate a virtual environment:
+```bash
+python -m venv venv
+.\venv\Scripts\activate
+```
+
+3. Install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
 
+## Configuration
+
+Edit `config/settings.json` to customize:
+- Default credentials (first name, last name, password)
+- File paths for accounts and logs
+- Browser settings (user agent, window size, timeout)
+
 ## Usage
 
-### GUI Method (Recommended)
-1. Run the PowerShell GUI:
+### GUI Interface
+
+Run the PowerShell GUI script:
 ```powershell
-.\cursor_mail_gui.ps1
+.\src\gui\cursor_gui.ps1
 ```
 
-2. The GUI provides:
-   - Input fields for customization
-   - One-click account generation
-   - Real-time progress display
-   - Easy credential copying
+The GUI provides:
+- Input fields for credentials
+- "Generate Temp Mail" button to create accounts
+- Output display area
+- "Copy to Clipboard" button for easy copying
 
-### Command Line Method
-Run the Python script directly:
+### Command Line
+
+Run the bot directly:
 ```bash
-python cursor_bot.py
+python src/bot/cursor_bot.py
 ```
 
-## Files Description
+### Cleanup
 
-- `cursor_bot.py` - Main Python script for account creation
-- `cursor_mail_gui.ps1` - PowerShell GUI interface
-- `requirements.txt` - Python dependencies
-- `cursor_accounts.txt` - Generated accounts (auto-created)
+To clean temporary files and reset the environment:
+```powershell
+.\scripts\cleanup.ps1
+```
 
-## Generated Files
+## Features
 
-The tool will create several files during operation:
-- `cursor_accounts.txt` - Stores account credentials
-- `debug_log.txt` - Debug information if errors occur
-- `error_screenshot.png` - Screenshot if errors occur
-- `chrome_profile/` - Chrome profile directory
-
-## Notes
-
-- All generated credentials are saved in `cursor_accounts.txt`
-- The tool creates a new Chrome profile for each session
-- Debug logs are available in `debug_log.txt` if errors occur
-- This tool is for educational purposes only
+- Modern dark-themed GUI
+- Automatic Cloudflare verification handling
+- Account credentials saving
+- Detailed logging
+- Chrome profile management
+- Easy cleanup utility
 
 ## Troubleshooting
 
@@ -71,20 +107,13 @@ The tool will create several files during operation:
    - The script will continue automatically
 
 2. If Chrome fails to start:
-   - Delete the `chrome_profile` directory
-   - Restart the script
+   - Run the cleanup script
+   - Delete the chrome_profile directory
+   - Try again
 
-3. If account creation fails:
-   - Check the debug log for details
+3. For any other issues:
+   - Check the logs in `data/logs/debug.log`
+   - Run the cleanup script
    - Ensure Chrome is up to date
-   - Try running the script again
 
-## Security
-
-- Generated credentials are stored locally
-- Chrome profiles are isolated
-- No data is sent to external servers except Mail.tm and Cursor
-
-## Legal
-
-This tool is for educational purposes only. Please ensure you comply with Cursor's terms of service when using automated tools. 
+ 

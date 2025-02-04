@@ -32,8 +32,7 @@ ENV/
 *.swo
 
 # Project specific
-chrome_profile/
-
+data/chrome_profile/
 *.log
 
 # Chrome Driver
