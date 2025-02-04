@@ -1,0 +1,99 @@
+
+==================================================
+Time: 2025-02-05 03:20:06
+Message: Error occurred: Message: invalid argument: cannot parse capability: goog:chromeOptions
+from invalid argument: unrecognized chrome option: excludeSwitches
+Stacktrace:
+	GetHandleVerifier [0x011D0A33+25139]
+	(No symbol) [0x01161134]
+	(No symbol) [0x01040523]
+	(No symbol) [0x0106705E]
+	(No symbol) [0x01068980]
+	(No symbol) [0x01063A1B]
+	(No symbol) [0x010B7792]
+	(No symbol) [0x010B719E]
+	(No symbol) [0x010B8976]
+	(No symbol) [0x010B877A]
+	(No symbol) [0x010ACD66]
+	(No symbol) [0x0107BD99]
+	(No symbol) [0x0107D0D4]
+	GetHandleVerifier [0x014D3A23+3183139]
+	GetHandleVerifier [0x014EFE8A+3298954]
+	GetHandleVerifier [0x014EA462+3275874]
+	GetHandleVerifier [0x01267770+642928]
+	(No symbol) [0x0116A01D]
+	(No symbol) [0x01166E48]
+	(No symbol) [0x01166FE7]
+	(No symbol) [0x01159CE0]
+	BaseThreadInitThunk [0x75C37BA9+25]
+	RtlInitializeExceptionChain [0x776CC0CB+107]
+	RtlClearBits [0x776CC04F+191]
+
+
+==================================================
+
+==================================================
+Time: 2025-02-05 03:22:03
+Message: Error occurred: Message: session not created: cannot connect to chrome at 127.0.0.1:58451
+from session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 132.0.6834.160
+Stacktrace:
+	GetHandleVerifier [0x003E0A33+25139]
+	(No symbol) [0x00371134]
+	(No symbol) [0x00250523]
+	(No symbol) [0x0028975B]
+	(No symbol) [0x00288799]
+	(No symbol) [0x0027ED2F]
+	(No symbol) [0x0027EB66]
+	(No symbol) [0x002C9062]
+	(No symbol) [0x002C877A]
+	(No symbol) [0x002BCD66]
+	(No symbol) [0x0028BD99]
+	(No symbol) [0x0028D0D4]
+	GetHandleVerifier [0x006E3A23+3183139]
+	GetHandleVerifier [0x006FFE8A+3298954]
+	GetHandleVerifier [0x006FA462+3275874]
+	GetHandleVerifier [0x00477770+642928]
+	(No symbol) [0x0037A01D]
+	(No symbol) [0x00376E48]
+	(No symbol) [0x00376FE7]
+	(No symbol) [0x00369CE0]
+	BaseThreadInitThunk [0x75C37BA9+25]
+	RtlInitializeExceptionChain [0x776CC0CB+107]
+	RtlClearBits [0x776CC04F+191]
+
+
+==================================================
+
+==================================================
+Time: 2025-02-05 03:27:56
+Message: Error occurred: Message: session not created: cannot connect to chrome at 127.0.0.1:58822
+from session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 132.0.6834.160
+Stacktrace:
+	GetHandleVerifier [0x00540A33+25139]
+	(No symbol) [0x004D1134]
+	(No symbol) [0x003B0523]
+	(No symbol) [0x003E975B]
+	(No symbol) [0x003E8799]
+	(No symbol) [0x003DED2F]
+	(No symbol) [0x003DEB66]
+	(No symbol) [0x00429062]
+	(No symbol) [0x0042877A]
+	(No symbol) [0x0041CD66]
+	(No symbol) [0x003EBD99]
+	(No symbol) [0x003ED0D4]
+	GetHandleVerifier [0x00843A23+3183139]
+	GetHandleVerifier [0x0085FE8A+3298954]
+	GetHandleVerifier [0x0085A462+3275874]
+	GetHandleVerifier [0x005D7770+642928]
+	(No symbol) [0x004DA01D]
+	(No symbol) [0x004D6E48]
+	(No symbol) [0x004D6FE7]
+	(No symbol) [0x004C9CE0]
+	BaseThreadInitThunk [0x75C37BA9+25]
+	RtlInitializeExceptionChain [0x776CC0CB+107]
+	RtlClearBits [0x776CC04F+191]
+
+
+==================================================

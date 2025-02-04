@@ -33,9 +33,7 @@ ENV/
 
 # Project specific
 chrome_profile/
-debug_log.txt
-error_screenshot.png
-cursor_accounts.txt
+
 *.log
 
 # Chrome Driver

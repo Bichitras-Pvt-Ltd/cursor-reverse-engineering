@@ -1,0 +1,140 @@
+
+==================================================
+Account Created: 20250205_030836
+Temp Mail Account:
+Email: bichitras_do14@e-record.com
+Password: Bichitras123!!
+Mail.tm Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE3Mzg3MDQyMTgsInJvbGVzIjpbIlJPTEVfVVNFUiJdLCJhZGRyZXNzIjoiYmljaGl0cmFzX2RvMTRAZS1yZWNvcmQuY29tIiwiaWQiOiI2N2EyODU1YWRkM2FjN2JmNTYwZGU3ZDEiLCJtZXJjdXJlIjp7InN1YnNjcmliZSI6WyIvYWNjb3VudHMvNjdhMjg1NWFkZDNhYzdiZjU2MGRlN2QxIl19fQ.3LPZIp9SLDVFLHriHC3A7_jTcIMaHroE949opm-cWmr9KZt8KMHFKhgLauVn0amcVjEIvbIq55NXiYlHZmCqog
+
+Cursor Account:
+Email: bichitras_do14@e-record.com
+Password: Bichitras123!!
+First Name: Bichitras
+Last Name: Pvt. LTD
+==================================================
+
+==================================================
+Account Created: 20250205_031127
+Temp Mail Account:
+Email: bichitras_bp85@e-record.com
+Password: Bichitras123!!
+Mail.tm Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE3Mzg3MDQzOTAsInJvbGVzIjpbIlJPTEVfVVNFUiJdLCJhZGRyZXNzIjoiYmljaGl0cmFzX2JwODVAZS1yZWNvcmQuY29tIiwiaWQiOiI2N2EyODYwNWM5YjllNjA1ZDEwOGM4NTUiLCJtZXJjdXJlIjp7InN1YnNjcmliZSI6WyIvYWNjb3VudHMvNjdhMjg2MDVjOWI5ZTYwNWQxMDhjODU1Il19fQ.z4UX9-H1R5hqPUr5Sy3Nkm7RQLArMi34veRn4w5g7uBls3sUH-6HW-wurKgKMyuFS_p_l1vXdcn8Ea--FDlItA
+
+Cursor Account:
+Email: bichitras_bp85@e-record.com
+Password: Bichitras123!!
+First Name: Bichitras
+Last Name: Pvt. LTD
+==================================================
+
+==================================================
+Account Created: 20250205_031335
+Temp Mail Account:
+Email: bichitras_ac13@e-record.com
+Password: Bichitras123!!
+Mail.tm Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE3Mzg3MDQ1MTgsInJvbGVzIjpbIlJPTEVfVVNFUiJdLCJhZGRyZXNzIjoiYmljaGl0cmFzX2FjMTNAZS1yZWNvcmQuY29tIiwiaWQiOiI2N2EyODY4NTA1MTAzMTE4NTAwZWU2M2UiLCJtZXJjdXJlIjp7InN1YnNjcmliZSI6WyIvYWNjb3VudHMvNjdhMjg2ODUwNTEwMzExODUwMGVlNjNlIl19fQ.GCNQ22iihDdghR6FueznjlP2BEJWgFWd73ubgnDKnimsQ25pcT_5wLwrORAgSLFOunjoZcB7KbaeR-Jyc3yEOg
+
+Cursor Account:
+Email: bichitras_ac13@e-record.com
+Password: Bichitras123!!
+First Name: Bichitras
+Last Name: Pvt. LTD
+==================================================
+
+==================================================
+Account Created: 20250205_031530
+Temp Mail Account:
+Email: bichitras_xn28@e-record.com
+Password: Bichitras123!!
+Mail.tm Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE3Mzg3MDQ2MzIsInJvbGVzIjpbIlJPTEVfVVNFUiJdLCJhZGRyZXNzIjoiYmljaGl0cmFzX3huMjhAZS1yZWNvcmQuY29tIiwiaWQiOiI2N2EyODZmOGFkNTY5NTlhNWMwNjJiYTQiLCJtZXJjdXJlIjp7InN1YnNjcmliZSI6WyIvYWNjb3VudHMvNjdhMjg2ZjhhZDU2OTU5YTVjMDYyYmE0Il19fQ.wG-u0t---xy4q2CLe16N3ZLH7EyO-WGVwveIWCsjUqUVXu1u-3ttgdhItmBnHApr_8HlkdkKbaSbKOd1NOV4ZA
+
+Cursor Account:
+Email: bichitras_xn28@e-record.com
+Password: Bichitras123!!
+First Name: Bichitras
+Last Name: Pvt. LTD
+==================================================
+
+==================================================
+Account Created: 20250205_031619
+Temp Mail Account:
+Email: bichitras_ei77@e-record.com
+Password: Bichitras123!!
+Mail.tm Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE3Mzg3MDQ2ODEsInJvbGVzIjpbIlJPTEVfVVNFUiJdLCJhZGRyZXNzIjoiYmljaGl0cmFzX2VpNzdAZS1yZWNvcmQuY29tIiwiaWQiOiI2N2EyODcyODljNDJjYTEyY2IwNGEwYzciLCJtZXJjdXJlIjp7InN1YnNjcmliZSI6WyIvYWNjb3VudHMvNjdhMjg3Mjg5YzQyY2ExMmNiMDRhMGM3Il19fQ.rqZNlVOzUIv0x1TkibfKGJDIRrzWtU-ik2F1svp13gCLFSgPa3M7Uyd_vLsvDFKuqOTvnjqJrmyC8653gXP7RQ
+
+Cursor Account:
+Email: bichitras_ei77@e-record.com
+Password: Bichitras123!!
+First Name: Bichitras
+Last Name: Pvt. LTD
+==================================================
+
+==================================================
+Account Created: 20250205_031844
+Temp Mail Account:
+Email: bichitras_cf22@e-record.com
+Password: Bichitras123!!
+Mail.tm Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE3Mzg3MDQ4MjYsInJvbGVzIjpbIlJPTEVfVVNFUiJdLCJhZGRyZXNzIjoiYmljaGl0cmFzX2NmMjJAZS1yZWNvcmQuY29tIiwiaWQiOiI2N2EyODdiOTQ3NTcwNmJjNjEwZWNkOGUiLCJtZXJjdXJlIjp7InN1YnNjcmliZSI6WyIvYWNjb3VudHMvNjdhMjg3Yjk0NzU3MDZiYzYxMGVjZDhlIl19fQ.z7C9e_T-z2HovWKrFRoxw-Q1jAodyzeTE86CBVxNavlpMz7ihAvvBPiMjnkwm9GQAzKlL1nlHGvmi3lentf6DQ
+
+Cursor Account:
+Email: bichitras_cf22@e-record.com
+Password: Bichitras123!!
+First Name: Bichitras
+Last Name: Pvt. LTD
+==================================================
+
+==================================================
+Account Created: 20250205_031909
+Temp Mail Account:
+Email: bichitras_ra47@e-record.com
+Password: Bichitras123!!
+Mail.tm Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE3Mzg3MDQ4NTEsInJvbGVzIjpbIlJPTEVfVVNFUiJdLCJhZGRyZXNzIjoiYmljaGl0cmFzX3JhNDdAZS1yZWNvcmQuY29tIiwiaWQiOiI2N2EyODdkMjlmZmZhYTk3MmYwZjZhMGIiLCJtZXJjdXJlIjp7InN1YnNjcmliZSI6WyIvYWNjb3VudHMvNjdhMjg3ZDI5ZmZmYWE5NzJmMGY2YTBiIl19fQ.5WJG4UHdAtvqRaVGQZjaU270jr-Mkq7phARcXnIFT0vPhC4K3FizehTfiZo4gWdkklrB9IM8TL6g-y4N4pWsYw
+
+Cursor Account:
+Email: bichitras_ra47@e-record.com
+Password: Bichitras123!!
+First Name: Bichitras
+Last Name: Pvt. LTD
+==================================================
+
+==================================================
+Account Created: 20250205_032004
+Temp Mail Account:
+Email: bichitras_tf02@e-record.com
+Password: Bichitras123!!
+Mail.tm Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE3Mzg3MDQ5MDcsInJvbGVzIjpbIlJPTEVfVVNFUiJdLCJhZGRyZXNzIjoiYmljaGl0cmFzX3RmMDJAZS1yZWNvcmQuY29tIiwiaWQiOiI2N2EyODgwYTYxYTZhOTRhNjgwOGQ5ZDkiLCJtZXJjdXJlIjp7InN1YnNjcmliZSI6WyIvYWNjb3VudHMvNjdhMjg4MGE2MWE2YTk0YTY4MDhkOWQ5Il19fQ.sr_0C-nntCJCSG9ekCnRtSc8chXtDyTPx75J1QFld4Fkhhp2NFf4CgoejTdYSe16dbxWv1dWzTdPCSGW-ni1dQ
+
+Cursor Account:
+Email: bichitras_tf02@e-record.com
+Password: Bichitras123!!
+First Name: Bichitras
+Last Name: Pvt. LTD
+==================================================
+
+==================================================
+Account Created: 20250205_032202
+Temp Mail Account:
+Email: bichitras_xm20@e-record.com
+Password: Bichitras123!!
+Mail.tm Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE3Mzg3MDUwMjQsInJvbGVzIjpbIlJPTEVfVVNFUiJdLCJhZGRyZXNzIjoiYmljaGl0cmFzX3htMjBAZS1yZWNvcmQuY29tIiwiaWQiOiI2N2EyODg3ZjI0NDdkOTRjNzIwMTIxMjYiLCJtZXJjdXJlIjp7InN1YnNjcmliZSI6WyIvYWNjb3VudHMvNjdhMjg4N2YyNDQ3ZDk0YzcyMDEyMTI2Il19fQ.svUc9IkExQTs5i_48051hrB2Gy5Dl1sZaAxN12ksEUamBhz7fqzfezwty77I5a5Qo91WulNJ_ukFGrm8DymyVg
+
+Cursor Account:
+Email: bichitras_xm20@e-record.com
+Password: Bichitras123!!
+First Name: Bichitras
+Last Name: Pvt. LTD
+==================================================
+
+==================================================
+Account Created: 20250205_032754
+Temp Mail Account:
+Email: bichitras_lb73@e-record.com
+Password: Bichitras123!!
+Mail.tm Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE3Mzg3MDUzNzcsInJvbGVzIjpbIlJPTEVfVVNFUiJdLCJhZGRyZXNzIjoiYmljaGl0cmFzX2xiNzNAZS1yZWNvcmQuY29tIiwiaWQiOiI2N2EyODllMDE5MTNkZjgyM2YwMDdmNjEiLCJtZXJjdXJlIjp7InN1YnNjcmliZSI6WyIvYWNjb3VudHMvNjdhMjg5ZTAxOTEzZGY4MjNmMDA3ZjYxIl19fQ.H-M58suKiT9Xz1CeFRJPWMeE7BvseRMg0noI5V46m5D5p9yRd0cshOyI9zBGHG1Ens3NM-kePFOabHRwEm_CtQ
+
+Cursor Account:
+Email: bichitras_lb73@e-record.com
+Password: Bichitras123!!
+First Name: Bichitras
+Last Name: Pvt. LTD
+==================================================
